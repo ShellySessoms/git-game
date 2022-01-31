@@ -1,2 +1,2 @@
 $ git clone https://github.com/hgarc014/git-game.git
-$ git commit
+$ git commit -m Hello World
